@@ -1,0 +1,13 @@
+The tkinter Form extends to accept
+the values of x variable to predict
+
+Enter all x (independent)
+parameter
+
+Then clicking 'Submit' button it would show the following:
+
+Output: Heart Disease
+Classification with
+probability/confidence value
+
+52,1,2,140,240,1,0,160,0,2.8,0,0,1
